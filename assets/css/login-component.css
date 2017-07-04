@@ -1,0 +1,46 @@
+.banner {
+    width: 100%;
+}
+
+.text-login{
+
+    width: 50%;
+    margin-left: 28%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.tittle-login {
+
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.log-text{
+    font-size: 1.5em;
+}
+
+.face{
+    text-align: center;
+}
+
+@media screen and (max-width:764px){
+
+.banner {
+    height: 160px;
+}
+
+.tittle-login {
+    font-size: 1.5em;
+}
+
+.log-text{
+    font-size: 1em;
+    text-align: center;
+}
+
+.face{
+    text-align: center;
+}
+
+}
